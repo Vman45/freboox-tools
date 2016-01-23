@@ -9,6 +9,8 @@ fi
 cmd=$1
 code=$(cat $config_file) 
 commands="
+
+
 power : la touche rouge on/off 
 list : la touche d’affichage de la liste des chaînes entre power et tv 
 tv : la touche verte TV de commutation péritel. 
